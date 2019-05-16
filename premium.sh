@@ -112,8 +112,8 @@ service squid start
 
 #get active.txt
 cd
-wget https://raw.githubusercontent.com/reyluar03/lionking/master/premiumactive.sh
-wget https://raw.githubusercontent.com/reyluar03/lionking/master/premiumnotactive.sh
+wget https://raw.githubusercontent.com/psalmbunny/lionking/master/premiumactive.sh
+wget https://raw.githubusercontent.com/psalmbunny/lionking/master/premiumnotactive.sh
 chmod 744 premiumactive.sh
 chmod 744 premiumnotactive.sh
 sh premiumactive.sh
